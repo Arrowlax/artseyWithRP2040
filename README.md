@@ -1,3 +1,6 @@
+Using key switch footprints from https://github.com/daprice/keyswitches.pretty
+
+
 # The Paintbrush
 
 A small keyboard design for those who cannot or prefer not use 'traditional' keyboard designs.
